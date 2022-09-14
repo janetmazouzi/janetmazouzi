@@ -10,8 +10,6 @@
 - 💻And here are the few technologies I love and am interesting in working with :
   - C/C++/C#
   - Data Bases
-  - Back End 
-  -  
 
 - 📫 How to reach me 
   - janet.mazouzi@polytech-lille.net
