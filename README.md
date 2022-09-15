@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Janet Mazouzi
 - 👩‍🎓 I'm a 5th year Embedded Systems student at Polytech Lille.
 - 👀 I’m interested in the programming World.
-- 🌱 I’m currently learning GO,  RESTful APIs, and so much more as part of my student exchange program in the Technical University of Frederico Santa Maria in Valparaíso, Chile.
+- 🌱 I’m currently learning GO,  RESTful APIs, and so much more as part of my student exchange program in the Federico Santa María Technical University in Valparaíso, Chile.
 - 💞️ I’m looking for a 6 month internship starting February 2023. Here are a few sector I would love to work in:
   - Spatial 
   - Embedded Systems
