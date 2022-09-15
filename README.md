@@ -1,4 +1,26 @@
-- 👋 Hi, I’m Janet Mazouzi
+# VERSION FRANCAISE (ENG Below)
+- 👋 Bonjour, je suis Janet Mazouzi.
+- 👩‍🎓 Je suis étudiante en cinquième année à l'école d'ingénieur Polytech Lille.
+- 🏫 Je prépare un diplôme d'ingénieur specialité Systèmes Embarqués, filière Systèmes Communicants.
+- 👀 Je veux me construire une carrière dans la programmation.
+- 🌱 J'apprends actuellement le langage GO, Unity 3D, la securité des systèmes informatiques et tant d'autres chose dans le cadre de mon échange universitaire à l'Université Technique Frederico Santa María à Valparaíso, au Chile.
+- 💞️ Je suis à la recherche d'un stage de fin d'étude de 4 à 6 mois à partir de fevrier 2023. Voici une liste des secteurs dans lesquelles j'aimerais évoluer:
+  - Le spatial
+  - Les Systèmes Embarqués
+  - La Cybersécurité
+  - Les Jeux-Vidéos
+- 💻 Voici les quelques technologies que j'aime par dessus tout :
+  - C/C++/C#
+  - Serveur Web
+  - Administration système Linux
+  - Gestion de projet
+- 📫 Comment me contacter :
+  - janet.mazouzi@polytech-lille.net
+  - janetmazouzi@gmail.com
+  - +33 6 52 62 85 27 (WhatsApp, Telegram)                  
+
+# ENGLISH VERSION
+- 👋 Hi, I’m Janet Mazouzi.
 - 👩‍🎓 I'm a 5th year Embedded Systems student at Polytech Lille.
 - 👀 I’m interested in the programming World.
 - 🌱 I’m currently learning GO,  RESTful APIs, and so much more as part of my student exchange program in the Federico Santa María Technical University in Valparaíso, Chile.
@@ -9,14 +31,10 @@
   - Video-Games
 - 💻And here are the few technologies I love and am interesting in working with :
   - C/C++/C#
-  - Data Bases
-
+  - Web Server
+  - Linux Systems Administration
+  - Project Management
 - 📫 How to reach me 
   - janet.mazouzi@polytech-lille.net
   - janetmazouzi@gmail.com
-  - +33 6 52 62 85 27 (WhatsApp, Telegram)                  
-
-<!---
-janetmazouzi/janetmazouzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  - +33 6 52 62 85 27 (WhatsApp, Telegram)
