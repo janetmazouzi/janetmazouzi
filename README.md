@@ -13,7 +13,7 @@
   - C/C++/C#
   - Serveur Web
   - Administration système Linux
-  - Gestion de projet
+  - Developpement de services et micro-services
 - 📫 Comment me contacter :
   - janet.mazouzi@polytech-lille.net
   - janetmazouzi@gmail.com
@@ -33,7 +33,7 @@
   - C/C++/C#
   - Web Server
   - Linux Systems Administration
-  - Project Management
+  - micro-services and services development
 - 📫 How to reach me 
   - janet.mazouzi@polytech-lille.net
   - janetmazouzi@gmail.com
